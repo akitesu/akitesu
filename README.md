@@ -1,6 +1,10 @@
 <div align="center">
   <h1>akitesu | Backend Developer & Linux Enthusiast</h1>
 
+
+  <p>
+    <img src>
+  </p>
   <p>
     <a href="https://github.com/akitesu">
       <img src="https://img.shields.io/github/followers/akitesu?style=for-the-badge&logo=github&color=24292e" />
