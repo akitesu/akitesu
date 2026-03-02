@@ -2,8 +2,8 @@
   <h1>akitesu | Backend Developer & Linux Enthusiast</h1>
 
   <p>
-    <a href="https://github.com/[YOUR_USERNAME]">
-      <img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?style=for-the-badge&logo=github&color=24292e" />
+    <a href="https://github.com/akitesu">
+      <img src="https://img.shields.io/github/followers/akitesu?style=for-the-badge&logo=github&color=24292e" />
     </a>
   </p>
 </div>
@@ -14,7 +14,6 @@
 - **Role:** Backend Developer / DevOps Trainee.
 - **OS:** Arch Linux (Hyprland WM).
 - **Core Interests:** Server Architecture, Database Design, Linux Internals.
-- **Side Quest:** Electric guitar & Signal processing.
 
 ### 🛠 Tech Stack & Arsenal
 **Backend & Database:**
@@ -31,9 +30,9 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ### 🚀 Current Focus
-- Mastering **FastAPI + SQLAlchemy** (without Alembic for now).
-- Deep diving into **AWS Free Tier** and cloud infrastructure.
-- Experimenting with **CI/CD** and automated testing (on the roadmap).
+- Mastering **FastAPI + SQLAlchemy**.
+- Deep diving into **AWS** and cloud infrastructure.
+- Experimenting with **CI/CD** and automated testing.
 
 ### 📊 GitHub Stats & Metrics
 <div align="center">
@@ -46,11 +45,8 @@
 
 ### 🎸 Beyond Coding
 - Modding electric guitars and configuring processors.
-- Brewing Puerh tea while debugging code.
-- Building a personal knowledge base in Obsidian.
 
 <div align="center">
-  <p><b>Let's build something efficient.</b></p>
-  <a href="https://t.me/твой_юзернейм">Telegram</a> • 
-  <a href="mailto:твой_email@example.com">Email</a>
+  <p><b>My Contacts</b></p>
+  <a href="wxrd3n@gmail.com">Email</a>
 </div>
