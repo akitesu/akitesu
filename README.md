@@ -40,9 +40,9 @@
 
 ### 📊 GitHub Stats & Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akitesu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akitesu&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
 </div>
 
 ---
