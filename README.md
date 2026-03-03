@@ -14,7 +14,7 @@
 
 ---
 
-### 💻 System Information (About Me)
+### 💻 System Information
 - **Role:** Backend Developer / DevOps Trainee.
 - **OS:** Arch Linux (Hyprland WM).
 - **Core Interests:** Server Architecture, Database Design, Linux Internals.
